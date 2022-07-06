@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/neo-hacking/static/css/main.fb2dbc2b.css",
-    "main.js": "/neo-hacking/static/js/main.0882eb27.js",
+    "main.js": "/neo-hacking/static/js/main.0a6b8ee6.js",
     "static/media/beach Video.mp4": "/neo-hacking/static/media/beach Video.bc1e98876c8e691a568e.mp4",
     "static/media/hacker.png": "/neo-hacking/static/media/hacker.d46aa1e5f7c15a527ed5.png",
     "static/media/LoginBackground.jpg": "/neo-hacking/static/media/LoginBackground.79e3639f81aa0832a81c.jpg",
@@ -9,10 +9,10 @@
     "static/media/BaiJamjuree-Medium.ttf": "/neo-hacking/static/media/BaiJamjuree-Medium.2f72a76b8b590e628403.ttf",
     "index.html": "/neo-hacking/index.html",
     "main.fb2dbc2b.css.map": "/neo-hacking/static/css/main.fb2dbc2b.css.map",
-    "main.0882eb27.js.map": "/neo-hacking/static/js/main.0882eb27.js.map"
+    "main.0a6b8ee6.js.map": "/neo-hacking/static/js/main.0a6b8ee6.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2dbc2b.css",
-    "static/js/main.0882eb27.js"
+    "static/js/main.0a6b8ee6.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/neo-hacking/static/css/main.dd59acf6.css",
-    "main.js": "/neo-hacking/static/js/main.7b2afd74.js",
+    "main.js": "/neo-hacking/static/js/main.563e49a7.js",
     "reactPlayerYouTube.js": "/neo-hacking/static/js/reactPlayerYouTube.e85171de.chunk.js",
     "reactPlayerSoundCloud.js": "/neo-hacking/static/js/reactPlayerSoundCloud.0f70d122.chunk.js",
     "reactPlayerVimeo.js": "/neo-hacking/static/js/reactPlayerVimeo.ed44e763.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/BaiJamjuree-Medium.ttf": "/neo-hacking/static/media/BaiJamjuree-Medium.2f72a76b8b590e628403.ttf",
     "index.html": "/neo-hacking/index.html",
     "main.dd59acf6.css.map": "/neo-hacking/static/css/main.dd59acf6.css.map",
-    "main.7b2afd74.js.map": "/neo-hacking/static/js/main.7b2afd74.js.map",
+    "main.563e49a7.js.map": "/neo-hacking/static/js/main.563e49a7.js.map",
     "reactPlayerYouTube.e85171de.chunk.js.map": "/neo-hacking/static/js/reactPlayerYouTube.e85171de.chunk.js.map",
     "reactPlayerSoundCloud.0f70d122.chunk.js.map": "/neo-hacking/static/js/reactPlayerSoundCloud.0f70d122.chunk.js.map",
     "reactPlayerVimeo.ed44e763.chunk.js.map": "/neo-hacking/static/js/reactPlayerVimeo.ed44e763.chunk.js.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.dd59acf6.css",
-    "static/js/main.7b2afd74.js"
+    "static/js/main.563e49a7.js"
   ]
 }

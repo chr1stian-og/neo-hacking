@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/neo-hacking/static/css/main.b82b3a01.css",
-    "main.js": "/neo-hacking/static/js/main.3b410ff2.js",
+    "main.css": "/neo-hacking/static/css/main.89bf742d.css",
+    "main.js": "/neo-hacking/static/js/main.24dde52b.js",
     "reactPlayerYouTube.js": "/neo-hacking/static/js/reactPlayerYouTube.e85171de.chunk.js",
     "reactPlayerSoundCloud.js": "/neo-hacking/static/js/reactPlayerSoundCloud.0f70d122.chunk.js",
     "reactPlayerVimeo.js": "/neo-hacking/static/js/reactPlayerVimeo.ed44e763.chunk.js",
@@ -16,15 +16,17 @@
     "reactPlayerFilePlayer.js": "/neo-hacking/static/js/reactPlayerFilePlayer.4fb07fe3.chunk.js",
     "reactPlayerPreview.js": "/neo-hacking/static/js/reactPlayerPreview.5ae1296a.chunk.js",
     "static/media/beach Video.mp4": "/neo-hacking/static/media/beach Video.bc1e98876c8e691a568e.mp4",
+    "static/media/IMG_0231.JPG": "/neo-hacking/static/media/IMG_0231.a681d41574d0f9d57a83.JPG",
     "static/media/hacker.png": "/neo-hacking/static/media/hacker.d46aa1e5f7c15a527ed5.png",
     "static/media/LoginBackground.jpg": "/neo-hacking/static/media/LoginBackground.79e3639f81aa0832a81c.jpg",
+    "static/media/hacker.jpg": "/neo-hacking/static/media/hacker.e865990da6605cfbb789.jpg",
     "static/media/Roboto-Light.ttf": "/neo-hacking/static/media/Roboto-Light.03e629f6348896ffa23a.ttf",
     "static/media/Roboto-Medium.ttf": "/neo-hacking/static/media/Roboto-Medium.d2d7f0c01bffaa5ec8f7.ttf",
     "static/media/hackerthumbnail.png": "/neo-hacking/static/media/hackerthumbnail.0a196220841782476fa8.png",
     "static/media/BaiJamjuree-Medium.ttf": "/neo-hacking/static/media/BaiJamjuree-Medium.2f72a76b8b590e628403.ttf",
     "index.html": "/neo-hacking/index.html",
-    "main.b82b3a01.css.map": "/neo-hacking/static/css/main.b82b3a01.css.map",
-    "main.3b410ff2.js.map": "/neo-hacking/static/js/main.3b410ff2.js.map",
+    "main.89bf742d.css.map": "/neo-hacking/static/css/main.89bf742d.css.map",
+    "main.24dde52b.js.map": "/neo-hacking/static/js/main.24dde52b.js.map",
     "reactPlayerYouTube.e85171de.chunk.js.map": "/neo-hacking/static/js/reactPlayerYouTube.e85171de.chunk.js.map",
     "reactPlayerSoundCloud.0f70d122.chunk.js.map": "/neo-hacking/static/js/reactPlayerSoundCloud.0f70d122.chunk.js.map",
     "reactPlayerVimeo.ed44e763.chunk.js.map": "/neo-hacking/static/js/reactPlayerVimeo.ed44e763.chunk.js.map",
@@ -40,7 +42,7 @@
     "reactPlayerPreview.5ae1296a.chunk.js.map": "/neo-hacking/static/js/reactPlayerPreview.5ae1296a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b82b3a01.css",
-    "static/js/main.3b410ff2.js"
+    "static/css/main.89bf742d.css",
+    "static/js/main.24dde52b.js"
   ]
 }
